@@ -3,6 +3,7 @@ package lab1;
 import java.awt.Dimension;
 
 /**
+  Comentario para el segundo commit
  * Common superclass for all game model classes.
  * 
  * Constructors of subclasses should initiate matrix elements and additional,
